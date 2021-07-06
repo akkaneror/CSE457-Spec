@@ -16,7 +16,7 @@ Implement the features described below. The skeleton code has comments marked wi
 
 -   #### Surface of Revolution
     
-    Write code to create a 3D surface of revolution mesh in the  **SurfaceOfRevolution::CreateMesh**  method in  **scene/components/surfaceofrevolution.cpp**. Your shape must:
+    Write code to create a 3D surface of revolution mesh in the  **SurfaceOfRevolution::CreateMesh**  method in  **scene/components/surfaceofrevolution.cs**. Your shape must:
     
     -   have appropriate positions for each vertex
         
@@ -63,6 +63,6 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDEzOTU5NCwtMjgxODMxNzE2LDg4Nj
+eyJoaXN0b3J5IjpbMjA1MjcwNDI4OSwtMjgxODMxNzE2LDg4Nj
 k4MTYyMF19
 -->
