@@ -6,7 +6,7 @@ Modeler is a 3D modelling program that lets you design and edit 3D scenes, simil
 You'll be implementing many of the core elements of this program, spanning the areas of geometric modelling (specifying the basic 3D shapes of objects in the scene), geometry processing (editing or refining the 3D shapes of objects to achieve certain goals), hierarchical scene modelling (specifying the relative arrangement of objects in the scene), and shading (specifying the appearance of the objects). There are two total requirements:
 
 -   **Geometric Modelling**: Constructing Surfaces of Revolution
--   **Hierarchical Modeling**: Crea
+-   **Hierarchical Modeling**: Creating 
 
 ### Requirements
 
@@ -63,6 +63,6 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTEwNDIyNiwtMjgxODMxNzE2LDg4Nj
+eyJoaXN0b3J5IjpbMTk5MDEzOTU5NCwtMjgxODMxNzE2LDg4Nj
 k4MTYyMF19
 -->
