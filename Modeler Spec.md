@@ -149,3 +149,6 @@ For the artifact, you will create a Hierarchical Model using modeler. As describ
 
 To get full credit for the artifact, your model needs to run automatically when we click "Play" and demonstrate two animations related to your hierarchical model
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk2MzI0Mjk4NV19
+-->
