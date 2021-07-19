@@ -140,9 +140,11 @@ We offer a model sample animation for your reference (bunny_animation)
 
 ## ARCore (TBD)
 This is what it will look like to import your artifact into our AR app.
-![AR Scene of your Artifact](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png?raw=true)
+![AR Scene of your ArtifactSneakpeak
+![enter image description here](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png?raw=true)
 ### Instruction
-Export your artifact as a Prefab
+Export your artifact as a Prefab)
+
 ## Turn In
 ### Code
 Refer to the class's Submission guide to commit and push your final version of the project.
@@ -215,6 +217,6 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwODg5MzQ0NCwxMjIyNDIyMDUxLC05Nj
-MyNDI5ODVdfQ==
+eyJoaXN0b3J5IjpbMjM4OTU0MDA3LC02MDg4OTM0NDQsMTIyMj
+QyMjA1MSwtOTYzMjQyOTg1XX0=
 -->
