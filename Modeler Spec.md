@@ -143,7 +143,7 @@ This is what it will look like to import your artifact into our AR app.
 ![AR Scene of your ArtifactSneakpeak
 ![enter image description here](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png?raw=true)
 ### Instruction
-1. Export your artifact as a UnityPackage Prefab.
+1. Export your artifact as a UnityPac
 	a. Under Unity **Project** tab, create a new folder and name it "**Prefabs**."
 	b. In the Hierachy tab, first click on the root of your artifact, then drag it into the **Prefabs** folders. A confirm dialog will appear, select**Original Prefabs.** Name it anything you'd like.
 	c. Right-click on your newly-created **Prefabs**, select Export Pakage. Another window will appear. Deselect everything and only check the Prefab you want to export. Click on "Export.." and choose a destination. 
@@ -222,7 +222,7 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Njg4ODA0NywtNTcxMjMxOTMwLDIzOD
-k1NDAwNywtNjA4ODkzNDQ0LDEyMjI0MjIwNTEsLTk2MzI0Mjk4
-NV19
+eyJoaXN0b3J5IjpbLTg0MDExNTM0NSwtOTY2ODg4MDQ3LC01Nz
+EyMzE5MzAsMjM4OTU0MDA3LC02MDg4OTM0NDQsMTIyMjQyMjA1
+MSwtOTYzMjQyOTg1XX0=
 -->
