@@ -143,7 +143,9 @@ This is what it will look like to import your artifact into our AR app.
 ![AR Scene of your ArtifactSneakpeak
 ![enter image description here](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png?raw=true)
 ### Instruction
-1. Export your artifact as a UnityPac
+First, Follow this quickstart guide to get started with building your AR app. 
+https://developers.google.com/ar/develop/unity-arf/quickstart-android
+1. Export your artifact as a UnityPackage
 	a. Under Unity **Project** tab, create a new folder and name it "**Prefabs**."
 	b. In the Hierachy tab, first click on the root of your artifact, then drag it into the **Prefabs** folders. A confirm dialog will appear, select**Original Prefabs.** Name it anything you'd like.
 	c. Right-click on your newly-created **Prefabs**, select Export Pakage. Another window will appear. Deselect everything and only check the Prefab you want to export. Click on "Export.." and choose a destination. 
@@ -152,7 +154,8 @@ This is what it will look like to import your artifact into our AR app.
 	b. Double click on it to import the package to our current project. The import package should locate under Prefabs folder. 
 3. Connect Prefab to the app. 
 	a. First, let's add three component to our Prefabs by clicking on it, Select "Add Component." Three components we should be adding are: Lean Drag Translate, Lean Pinch Scale, and Lean Twist Rotate Axis. 
-	b. In the Hierachy tab, select GameController, drag your Prefab into the box next to "Ar Object To Spawn." (The current placeholder is Cat and you should remove it with your 
+	b. In the Hierachy tab, select GameController, drag your Prefab into the box next to "Ar Object To Spawn." (The current placeholder is Cat and you should remove it with your artifact).
+	c. Build the Project. 
 
 ## Turn In
 ### Code
@@ -226,7 +229,7 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjIwNjA3NCwtNjA4ODkzNDQ0LDE2Mj
+eyJoaXN0b3J5IjpbLTIxMDUwNTg1OSwtNjA4ODkzNDQ0LDE2Mj
 czMTQ4NDAsMjA1MjcwNDI4OSwtMjgxODMxNzE2LDg4Njk4MTYy
 MF19
 -->
