@@ -146,7 +146,8 @@ This is what it will look like to import your artifact into our AR app.
 First, follow this quickstart guide to get started with building the AR app. 
 https://developers.google.com/ar/develop/unity-arf/quickstart-android
 (Pay close attention to this part: **Configure project settings**)
-Then follow this 3-step to use your own artifact 
+
+Then follow this 3-step to turn your artifact into an AR object.
 1. Export your artifact as a UnityPackage
 	a. Under Unity **Project** tab, create a new folder and name it "**Prefabs**."
 	b. In the Hierachy tab, first click on the root of your artifact, then drag it into the **Prefabs** folders. A confirm dialog will appear, select**Original Prefabs.** Name it anything you'd like.
@@ -231,7 +232,7 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMwNzk3ODcsLTYwODg5MzQ0NCwxNj
-I3MzE0ODQwLDIwNTI3MDQyODksLTI4MTgzMTcxNiw4ODY5ODE2
-MjBdfQ==
+eyJoaXN0b3J5IjpbMTAzMjQxMDE2NiwtNjA4ODkzNDQ0LDE2Mj
+czMTQ4NDAsMjA1MjcwNDI4OSwtMjgxODMxNzE2LDg4Njk4MTYy
+MF19
 -->
