@@ -139,7 +139,8 @@ Refer to the MazeGame tutorial on how to link the GameObject variables in your s
 We offer a model sample animation for your reference (bunny_animation)
 
 ## ARCore (TBD)
-TBD
+Sneakpeak
+
 
 ## Turn In
 ### Code
@@ -213,5 +214,6 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjQyMjA1MSwtOTYzMjQyOTg1XX0=
+eyJoaXN0b3J5IjpbMjk5Mjg0NDY4LDEyMjI0MjIwNTEsLTk2Mz
+I0Mjk4NV19
 -->
