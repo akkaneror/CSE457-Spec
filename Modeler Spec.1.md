@@ -139,8 +139,8 @@ Refer to the MazeGame tutorial on how to link the GameObject variables in your s
 We offer a model sample animation for your reference (bunny_animation)
 
 ## ARCore (TBD)
-Sneakpeak
-![enter image description here](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png)
+This is what it will look like to import your artifact into our AR app.
+![AR Scene of your Artifact](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png?raw=true)
 
 ## Turn In
 ### Code
@@ -214,6 +214,6 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NjYyMjk4LDE2MjczMTQ4NDAsMjA1Mj
-cwNDI4OSwtMjgxODMxNzE2LDg4Njk4MTYyMF19
+eyJoaXN0b3J5IjpbLTE5NDY1ODg4MTUsMTYyNzMxNDg0MCwyMD
+UyNzA0Mjg5LC0yODE4MzE3MTYsODg2OTgxNjIwXX0=
 -->
