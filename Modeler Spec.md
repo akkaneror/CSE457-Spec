@@ -119,7 +119,7 @@ Writing down a tree diagram that illustrates the model hierarchy and describes t
 
 Note you  **do not**  have to submit a diagram of your model. This is just a recommendation, not a requirement.
 
-![Simple Hierarchy](https://courses.cs.washington.edu/courses/cse457/20au/img/modeler/simplehierarchy.png)
+![enter image description here](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png)![Simple Hierarchy](https://courses.cs.washington.edu/courses/cse457/20au/img/modeler/simplehierarchy.png)
 
 A tree diagram for this model would look like this:
 
@@ -140,7 +140,7 @@ We offer a model sample animation for your reference (bunny_animation)
 
 ## ARCore (TBD)
 Sneakpeak
-
+![enter image description here](https://github.com/akkaneror/CSE457-Spec/blob/master/image.png)
 
 ## Turn In
 ### Code
@@ -214,6 +214,6 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5Mjg0NDY4LDEyMjI0MjIwNTEsLTk2Mz
+eyJoaXN0b3J5IjpbNDg3NjYyMjk4LDEyMjI0MjIwNTEsLTk2Mz
 I0Mjk4NV19
 -->
