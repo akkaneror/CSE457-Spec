@@ -148,7 +148,10 @@ This is what it will look like to import your artifact into our AR app.
 	b. In the Hierachy tab, first click on the root of your artifact, then drag it into the **Prefabs** folders. A confirm dialog will appear, select**Original Prefabs.** Name it anything you'd like.
 	c. Right-click on your newly-created **Prefabs**, select Export Pakage. Another window will appear. Deselect everything and only check the Prefab you want to export. Click on "Export.." and choose a destination. 
 2. Import your artifact
-	a. Open the ARScene Project (where to download is TBD). Navigate to the folder where your Prefab locate, it should look like \<prefab_name\>.unitypackage. Double click on it to import the package to our current project. 
+	a. Open the ARScene Project (where to download is TBD). Navigate to the folder where your Prefab locate, it should look like \<prefab_name\>.unitypackage. 
+	b. Double click on it to import the package to our current project. The import package should locate under Prefabs folder. 
+3. Connect Prefab to the app. 
+	a. 
 
 ## Turn In
 ### Code
@@ -222,7 +225,7 @@ Modeler uses a component based system for scene objects. Every object has a "Tra
 
 Scene in the middle is a rendering of your Scene Graph. You can change how its rendered as points, wireframe, or fully shaded via the menu bar along the top of the scene view. If you are having trouble with the orientation of the Perspective view, try switching to an Orthographic view.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDExNTM0NSwtOTY2ODg4MDQ3LC01Nz
-EyMzE5MzAsMjM4OTU0MDA3LC02MDg4OTM0NDQsMTIyMjQyMjA1
-MSwtOTYzMjQyOTg1XX0=
+eyJoaXN0b3J5IjpbLTEzODIyNjY0MjIsLTg0MDExNTM0NSwtNT
+cxMjMxOTMwLDIzODk1NDAwNywtNjA4ODkzNDQ0LDEyMjI0MjIw
+NTEsLTk2MzI0Mjk4NV19
 -->
